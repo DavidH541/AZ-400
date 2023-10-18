@@ -5,6 +5,7 @@ changelog:
     labels:
     - ignore-for-release
     - confidential 
+    - ignored-label
     authors:
     - octocat
     - some-unwanted-user
