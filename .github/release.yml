@@ -11,12 +11,12 @@ changelog:
     - some-unwanted-user
     - dependabot
   categories:
-    - title: Breaking Changes 🛠
+    - title: Breaking Changes
       labels:
         - Semver-Major
         - breaking-change
         - fix-great
-    - title: Exciting New Features 🎉
+    - title: Exciting New Features
       labels:
         - Semver-Minor
         - enhancement
