@@ -22,9 +22,9 @@ changelog:
         - new
     - title: Bugfixes <3
       labels:
-       - bug
-       - fix
-       - bug-fix
+        - bug
+        - fix
+        - bug-fix
     - title: Other Changes
       labels:
         - *
