@@ -15,6 +15,7 @@ changelog:
       labels:
         - Semver-Major
         - breaking-change
+        - fix-great
     - title: Exciting New Features 🎉
       labels:
         - Semver-Minor
