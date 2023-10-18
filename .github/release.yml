@@ -23,7 +23,7 @@ changelog:
       labels:
        - bug
        - fix
-       - bugfix
+       - bug-fix
     - title: Other Changes
       labels:
         - *
