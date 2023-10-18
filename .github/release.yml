@@ -26,6 +26,3 @@ changelog:
         - bug
         - fix
         - bug-fix
-    - title: Other Changes
-      labels:
-        - *
