@@ -1,0 +1,29 @@
+# .github/release.yml
+
+changelog:
+  exclude:
+    labels:
+    - ignore-for-release
+    - confidential 
+    authors:
+    - octocat
+    - some-unwanted-user
+    - dependabot
+  categories:
+    - title: Breaking Changes 🛠
+      labels:
+        - Semver-Major
+        - breaking-change
+    - title: Exciting New Features 🎉
+      labels:
+        - Semver-Minor
+        - enhancement
+        - new
+    - title: Bugfixes <3
+      labels:
+       - bug
+       - fix
+       - bugfix
+    - title: Other Changes
+      labels:
+        - *
